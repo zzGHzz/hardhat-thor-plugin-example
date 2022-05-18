@@ -2,6 +2,20 @@
 
 Example of using [`hardhat-thor-plugin`](https://github.com/zzGHzz/hardhat-thor-plugin).
 
+## Installation
+
+Download the repo and run
+
+```bash
+npm install
+```
+
+Download and compile the source code of the [Thor node](https://github.com/vechain/thor) and run a solo node locally
+
+```bash
+thor-node-dir/bin/thor solo --on-demand
+```
+
 ## Usage
 
 To run the created task:
