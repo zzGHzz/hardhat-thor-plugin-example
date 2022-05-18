@@ -1,0 +1,16 @@
+{
+  "name": "hardhat-thor-plugin-example",
+  "license": "MIT",
+  "author": "Peter Zhou",
+  "devDependencies": {
+    "@types/chai": "^4.3.1",
+    "@types/mocha": "^9.1.1",
+    "chai": "^4.3.6",
+    "hardhat": "^2.9.5",
+    "hardhat-thor-plugin": "^0.1.0",
+    "mocha": "^10.0.0",
+    "thor-builtin": "^2.0.2",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.4"
+  }
+}
